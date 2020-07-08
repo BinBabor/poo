@@ -1,0 +1,161 @@
+body{
+margin: 0;
+padding: 0;
+font-family: 'Gotu', sans-serif;
+}
+.header{
+background-color:#3E5C9A;
+overflow: hidden;
+padding: 2%;
+}
+.contaier{
+width: 70%;
+margin: auto;
+}.logo{
+width: 25%;
+float: left;
+}
+.logo img{
+    width: 160px;
+    margin-top: 10%;
+}
+.login{
+    width: 70%;
+float: left;
+color: white;
+}.login form{
+float: right;
+
+}.login label,
+.LOG in input{
+display: block;
+
+}.login .email,
+.login .password,
+.login .LOG in{
+    float: left;
+    margin-right: 10px;
+}
+.login label{
+margin-bottom: 5px;
+font-size: 13px;
+}
+.login input[type="text"]
+.login input[type="paswsword"]{
+
+    border: 1px solid black;
+    font-size: 12px;
+    font-weight: 300;
+    padding:2px 5px;
+}.login .password a{
+text-decoration: none;
+color: white;
+font-size: 14px;
+}.login .password a:hover{
+text-decoration: underline;
+
+}
+.login input[type="submit"]{
+background-color:#4267b2;
+color: white;
+padding:2px 6px ;
+
+}
+.signup{
+padding: 22px 0;
+
+}
+.signup::after{
+    content: '';
+    clear: both;
+    display:block ;
+
+
+}
+
+.left{
+width: 55%;
+float: left;
+}
+.left p{  
+    font-size: 20px;
+    font: weight 600;
+     
+}
+    
+.left img{
+    width: 80%;
+    margin-left:auto;
+}
+    
+
+
+.right h2{
+font-size: 33px;
+color:black;
+margin: 0;
+}
+.right h4{
+font-size:15px;
+color: black;
+font: weight 400;
+margin-top: 5px;
+margin-bottom: 10px;
+
+}
+.right{
+    width: 45%;
+    float: left;
+}
+.gender{
+    float: left;
+    
+}
+.signup{
+    background-color:rgb(247, 240, 240);
+}
+
+.footer-area{
+    padding:30px 0 ;
+}.footer-area ul{
+    margin: 0;
+    padding: 0%;
+
+}
+.footer-area ul li{
+display: inline;
+
+}
+.footer-area ul li a{
+    text-decoration: none;
+    color: #385898; 
+
+
+}
+
+.footer-area .top ul li{
+    margin-right: 6px;
+}
+.footer-area .middle ul li{
+    margin-right: 10px;
+}
+
+.footer-area{
+    margin-top: 20px;
+}
+
+
+.footer-area{
+    margin-last: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
